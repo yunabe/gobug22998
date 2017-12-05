@@ -18,4 +18,3 @@ else
     echo FAIL
 fi
 rm -rf $pkgdir
-
